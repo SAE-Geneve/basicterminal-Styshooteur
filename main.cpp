@@ -84,8 +84,8 @@ while (playing)
 		}
 	if (value == "spear" || "dagger" || "crossbow")
 		{
-		dégats();
-		break;
+			dégats();
+			break;
 		}
 	
 		std::cout << " ??? \n";
